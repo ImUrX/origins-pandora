@@ -1,13 +1,13 @@
-name = "Origins (Fabric)"
+name = "Origins"
 filename = "Origins-1.19-1.6.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/1.6.1/Origins-1.19-1.6.1.jar"
 hash-format = "sha1"
 hash = "cb2b92dddbd4049cbec0e806374c96bd458b67aa"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3821232
-project-id = 391943
+[update.modrinth]
+mod-id = "3BeIrqZR"
+version = "95O5f5Bu"
