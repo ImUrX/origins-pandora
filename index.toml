@@ -29,11 +29,6 @@ hash = "7fec0c11e044b05224575ddb17d5a8096517cbbc70f68d023e343d8f029c76fb"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "23886daaaa14bd8b3316fc5cfc04105e7bbe05a6141abb122f3fbc05a2d004a0"
-metafile = true
-
-[[files]]
 file = "mods/bclib.pw.toml"
 hash = "f3e66c8224bbcc006c745c977df127bd884f789aef5fc554ca5c1356271109dd"
 metafile = true
@@ -55,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "30a4c99db99765690a9fb64452bdabdf00b6d9358c1285eb66afdb98176e279a"
+hash = "b00833fa8252e91491ec37f9d2dff96b7fe5789d872bee9d2003ac9f050c439b"
 metafile = true
 
 [[files]]
@@ -74,13 +69,18 @@ hash = "ac58a321007dfe917701716cd6e7873d9516d58cea2b0de1f6c3ac7cbe7048c5"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models-fabric.pw.toml"
+hash = "13235d7d583dcad597b4386f34ea568cc9b9510f6b63c988c537909614a5f60b"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
+hash = "bb1f90cf3a4752bfe60f767130364ab76f698d3ca74853397d2b7fe8c1d65892"
 metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "a69e0d62412f4fa0041477767a78350ee72a034ad1bac5590b3c1fbd9492354f"
+hash = "f23489231f611e8aaa8e12b48682fde444ec15403214a17b15959f8824dc6c90"
 metafile = true
 
 [[files]]
@@ -109,11 +109,6 @@ hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
 metafile = true
@@ -130,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "21ae6591048a111fba70d41a57ee0b7f16e73011f970ce88c21d9ccdea170b0a"
+hash = "e496db6878475e0cd41a2178ce354999574f2c8c47e27a7f0dc488e30edb3fb8"
 metafile = true
 
 [[files]]
@@ -139,13 +134,8 @@ hash = "bafd50c7e62f9cd7aecb913737b7a4af38c6e86ad565e6ee1e8be9c887e606a7"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "c141133aa236e002f9b32baf6e9c8c2c3f4618fcc3defbd3bc3d2aa24f7b96b7"
+hash = "c1122c19625a7ccb532b64bad865b70cdb1f24b308a55a0d867b2b893f608ff1"
 metafile = true
 
 [[files]]
@@ -165,12 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/localized-browser-fabric-forge.pw.toml"
-hash = "6c5f8019a31ca4df12f35b924d0c8ec86d7e174e73b741ca828667c55108bebd"
-metafile = true
-
-[[files]]
-file = "mods/localized-browser.pw.toml"
-hash = "06c3d36276dc38b042badea774bbf1e86e82d36a67ff9079000a0019e4186625"
+hash = "8b2907fef6990676487c2d474dbd8499630895a02d75e08cf1642bf530596485"
 metafile = true
 
 [[files]]
@@ -180,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6b1734388b472b28a3207eba2c470bd3eb6a08e5446a742737dcf401da694ee9"
+hash = "ddf61cec11f7ecb3b3842e905fae4f0a509c6591215d6a9791f77b3cec8ad2f2"
 metafile = true
 
 [[files]]
@@ -205,12 +190,12 @@ metafile = true
 
 [[files]]
 file = "mods/screencopy.pw.toml"
-hash = "84a8eea68b950c1b84ef651d3caea9e1571beef1b55573b8a91e3a012e23c183"
+hash = "80a755d026da2bae1b3374ccbf745a1753baf4eb1de1f002e83007b850aba9dd"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
+hash = "2b8acbfc65f6406ed735b5072b16d7e6f5c877dddc9988bae25007a47c4c1f10"
 metafile = true
 
 [[files]]
