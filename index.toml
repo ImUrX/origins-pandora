@@ -69,6 +69,11 @@ hash = "ac58a321007dfe917701716cd6e7873d9516d58cea2b0de1f6c3ac7cbe7048c5"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "08e19e48e3d742514dafbdb169a8ff03626c0bb5123080fe86f4054062138c26"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
