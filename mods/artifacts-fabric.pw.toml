@@ -1,0 +1,13 @@
+name = "Artifacts (Fabric)"
+filename = "artifacts-7.1.0+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d091e815815d8789a439785f28ef8269b6538c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3832407
+project-id = 401236

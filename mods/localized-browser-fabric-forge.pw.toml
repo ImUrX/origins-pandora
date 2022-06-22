@@ -1,0 +1,13 @@
+name = "Localized Browser (Fabric/Forge)"
+filename = "interrecipebrowser-1.0.0-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4436e09c6bad79c57911e82303ed9e1942a44a1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3842124
+project-id = 635640
