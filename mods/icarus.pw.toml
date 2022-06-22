@@ -1,0 +1,11 @@
+name = "Icarus"
+filename = "icarus-1.11-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/713114844861300756/989004326389297182/icarus-1.11-1.19.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b83f5eb5b32892ef045e4cb40ca5cb245bf6953f84fc3321331199c6b6ab7e91"

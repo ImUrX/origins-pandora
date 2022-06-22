@@ -1,0 +1,13 @@
+name = "Origins Pandora"
+author = "ImUrX"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b042eb15b3b8d73b86b16b12b9025429fca5df008374f08d87a0cbbf300a9898"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"
