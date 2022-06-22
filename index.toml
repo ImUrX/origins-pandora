@@ -184,6 +184,11 @@ hash = "0fbffda0b5c67d1455d70923ac3af9e90d0b3610af1438980a88593e154618f2"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "561ad66d44b91fdf5902647e8ec9124c7b0e4502d9e43c7420549c863c6b6300"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ea7abe71d5bbb0fcb4ec4ef2025232a22f2e9acae7a0d1652bbc63a276dcba82"
 metafile = true
