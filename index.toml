@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3a906e337c1299509b63c347c4383e224222d63be7acd4cc516f18945e62be3c"
+hash = "960e11d87f09c00789095d237aaa1244fc45d9c1fdb0be3fc2093f877ae10ff2"
 metafile = true
 
 [[files]]
@@ -169,6 +169,11 @@ hash = "ddf61cec11f7ecb3b3842e905fae4f0a509c6591215d6a9791f77b3cec8ad2f2"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "a188354a311da85a495bc41fba7ec9c88c888699d45ba11aa8ac7877a6b3d19f"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
 metafile = true
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "76224d5c02a335313f7809ef14c6e4a3278c07a79e9a74e242b1988f60a6be85"
 metafile = true
 
 [[files]]
