@@ -24,6 +24,11 @@ hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "826a261afe006c3d29a03c0b76fb861495dfa37261e816323045b9eccd567969"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "23886daaaa14bd8b3316fc5cfc04105e7bbe05a6141abb122f3fbc05a2d004a0"
 metafile = true
@@ -31,6 +36,16 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "f3e66c8224bbcc006c745c977df127bd884f789aef5fc554ca5c1356271109dd"
+metafile = true
+
+[[files]]
+file = "mods/better-animal-models.pw.toml"
+hash = "3cdd745983491a3eea764a3eb4dbc58336f537693e03243ae3272ec53a03df04"
+metafile = true
+
+[[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "d9f1f6df976af1b3feaef4a1e96ca13a2bbd831b4d1b6892966ee14eb13dbed8"
 metafile = true
 
 [[files]]
@@ -51,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
+metafile = true
+
+[[files]]
+file = "mods/capybara-fabric.pw.toml"
+hash = "5849beece9be8e990e663f4e97da5246bddbd7c0450d7a54bb7abd869a3e6dad"
 metafile = true
 
 [[files]]
@@ -114,6 +134,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5ed766bc2ca05f34d7c590b540b2ce440ee6baee06fa0e55b712cf175823cd37"
+metafile = true
+
+[[files]]
 file = "mods/gimme-bundles.pw.toml"
 hash = "c67fb0242b8ea5153a552c9895539b1c1a98259f05917d9919c42395d837117e"
 metafile = true
@@ -169,6 +194,11 @@ hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "aa0619a02adb028a724f2947a4d18cf9ccd55f590014b332f4f7cceac71ee7db"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "a188354a311da85a495bc41fba7ec9c88c888699d45ba11aa8ac7877a6b3d19f"
 metafile = true
@@ -194,6 +224,16 @@ hash = "602bd67a9bb4a39330a67c037bcbf8d0a6631f53374d6d2c4a8311fcad425f5f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "fd46f13cbbe09f4c0ec379f5755d07b1b92caf8824a27e6ddda9c44d2d11439e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "a880c7ec2a00b15f9a0e0863f049aef8c863a296222b4797aa362aa34dbe5678"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d536af73427d2dc6f19b64f1980e74c35609f07b2b11118af24e806284f6ffc5"
 metafile = true
@@ -201,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/screencopy.pw.toml"
 hash = "f81c99cd8ba643876938e15fdec24d0796716788e1ddec8d3a97a354f608d078"
+metafile = true
+
+[[files]]
+file = "mods/snail-mail.pw.toml"
+hash = "a99d7788c955a22e366e89a8b94d4c209585ebd3f2d804d8ffe489d832a7c72d"
 metafile = true
 
 [[files]]
