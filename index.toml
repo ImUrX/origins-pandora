@@ -1,12 +1,116 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".git/HEAD"
+hash = "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+
+[[files]]
+file = ".git/config"
+hash = "1c2eee9fe1d984dc865177399e0e526011b4e053cb4d99693ae67c93729d058b"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "7f9cacf1f7c8f791abfaa76171b951a55a9a2a11f1390b43cbc83995b4a91b33"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "d6d114e507a3295ff3a2e214611c2f5c0d13eaf0ed53f595ba02e4cc714fca18"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
+
+[[files]]
+file = ".git/index"
+hash = "e94394631790f2ced9fdcbee9a5b786c566c2bcd9683bdaf1c3a344ab592aae0"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "ba09f124b48caa36abc7f94d30f0765f49a246b8fe9d4cf57577b1590d9e3056"
+
+[[files]]
+file = ".git/logs/refs/heads/main"
+hash = "ba09f124b48caa36abc7f94d30f0765f49a246b8fe9d4cf57577b1590d9e3056"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/HEAD"
+hash = "ba09f124b48caa36abc7f94d30f0765f49a246b8fe9d4cf57577b1590d9e3056"
+
+[[files]]
+file = ".git/objects/pack/pack-f22573c3a574a15b2849d36022c84488a404967e.idx"
+hash = "c958307e77dde2ab1691c068c873c0651880bc2af32b10fe15f4abbf90196c5f"
+
+[[files]]
+file = ".git/objects/pack/pack-f22573c3a574a15b2849d36022c84488a404967e.pack"
+hash = "3435db638c952aef58c4014db5e8a439aaa24cf87f33298874814568a6b7321b"
+
+[[files]]
+file = ".git/packed-refs"
+hash = "0776cc2124ae66ea9d7d6d194b4bae8dabf5f8760fc466aad0da9daef480e185"
+
+[[files]]
+file = ".git/refs/heads/main"
+hash = "9d0df3565c7b39a28923eb08c7b5276301ae508006df4beba77315b9a1fa7afe"
+
+[[files]]
+file = ".git/refs/remotes/origin/HEAD"
+hash = "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+
+[[files]]
+file = ".gitattributes"
+hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
+
+[[files]]
+file = ".gitignore"
+hash = "0a59c85dba2f1169b3c9486ca512e061a85e2b64ef3e56f79431101792945102"
+
+[[files]]
 file = "LICENSE"
 hash = "402aeb192150996845e72792812d789b01c56f13d21da2613de1ac257b7657d8"
 
 [[files]]
 file = "config/carpet/scripts/originaddons.sc"
-hash = "f83ba74168867695c09423f2c97c214912bd746ce79304f59cc327c4510b9066"
+hash = "7d303cd9bcbea9918a18bbe248be257c3c8c13e137f18c691327f4688ff99741"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -282,3 +386,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "43cdd48d6dd88fc2d7d69d441ef194123e645090d9ba8691aae811f762976767"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a645d147b7ea7f51200719ff27f388c8348cfe678b38f855f3f4852e3db759c4"
