@@ -5,6 +5,7 @@
 /README.md
 *.zip
 *.mrpack
+.git/*
 .git/
 .gitignore
 .gitattributes
