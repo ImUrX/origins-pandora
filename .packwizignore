@@ -5,3 +5,6 @@
 /README.md
 *.zip
 *.mrpack
+.git/
+.gitignore
+.gitattributes
