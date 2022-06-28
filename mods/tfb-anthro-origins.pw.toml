@@ -1,11 +1,8 @@
 name = "[TFB] Anthro Origins"
-filename = "[TFB][1.19+Fabric]Anthro_Origins_v1.5.jar"
+filename = "TFB1.19+FabricAnthro_Origins_v1.5.jar"
 side = "both"
 
 [download]
 url = "https://cdn.discordapp.com/attachments/713114844861300756/988938294119260190/TFB1.19FabricAnthro_Origins_v1.5.jar"
-
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
 hash = "0e47a6eb776b81ff3c00ead0f820e426e5bcb127f184121ee0cc9f3bd0e9f66f"
