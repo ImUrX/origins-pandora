@@ -10,7 +10,7 @@ hash = "402aeb192150996845e72792812d789b01c56f13d21da2613de1ac257b7657d8"
 
 [[files]]
 file = "config/carpet/scripts/originaddons.sc"
-hash = "f83ba74168867695c09423f2c97c214912bd746ce79304f59cc327c4510b9066"
+hash = "7d303cd9bcbea9918a18bbe248be257c3c8c13e137f18c691327f4688ff99741"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "311979108a62305d911206a0c13e6d5fcb4a5443185c133f855db54f3264d742"
+hash = "4c3020451b71c02de27e5b2db8a1ff17077853d852faf42c07c4730eefe15f46"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfb-anthro-origins.pw.toml"
-hash = "35e1617a4381786139f160912582f2dab76b94c595123275154289beffe878e2"
+hash = "107fed5184aa9c8e04ff83b16997fcf6b9100d33385b76263c420e4605b354d7"
 metafile = true
 
 [[files]]
@@ -286,3 +286,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "43cdd48d6dd88fc2d7d69d441ef194123e645090d9ba8691aae811f762976767"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a645d147b7ea7f51200719ff27f388c8348cfe678b38f855f3f4852e3db759c4"
