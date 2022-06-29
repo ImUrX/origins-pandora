@@ -9,10 +9,6 @@ file = "LICENSE"
 hash = "402aeb192150996845e72792812d789b01c56f13d21da2613de1ac257b7657d8"
 
 [[files]]
-file = "config/carpet/scripts/originaddons.sc"
-hash = "7d303cd9bcbea9918a18bbe248be257c3c8c13e137f18c691327f4688ff99741"
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "df248b72ae405960eed98ca906127802641f4c0fc2637a0af975141af9ecc0d8"
 metafile = true
@@ -290,3 +286,15 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "a645d147b7ea7f51200719ff27f388c8348cfe678b38f855f3f4852e3db759c4"
+
+[[files]]
+file = "world/datapacks/moth-origin.zip"
+hash = "0c1dd79da25cfda7a8e787385ffbd6b3112cd445df3e93f014b3f022c95ee37f"
+
+[[files]]
+file = "world/datapacks/withered-skeletian-origin.zip"
+hash = "a9cca6ac88eb8ac654ba82c56b8feecfdde6f8a6b67fdad3feac43932be00c39"
+
+[[files]]
+file = "world/scripts/originaddons.sc"
+hash = "7d303cd9bcbea9918a18bbe248be257c3c8c13e137f18c691327f4688ff99741"
