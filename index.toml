@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "0819ce143e1994aae58c3d551e132f464ccc85ad152758e206615853eefbe8f0"
+
+[[files]]
 file = "LICENSE"
 hash = "402aeb192150996845e72792812d789b01c56f13d21da2613de1ac257b7657d8"
 
@@ -20,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
+hash = "1ece650b4a9f8375fb98703eb33257db7aea6eb9b7410abc75ceda19255b20f7"
 metafile = true
 
 [[files]]
@@ -91,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models-fabric.pw.toml"
 hash = "13235d7d583dcad597b4386f34ea568cc9b9510f6b63c988c537909614a5f60b"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "4adb70b48919aa4f21c62dd8b853418414754d6f79d1b7c7ca2058195ad36898"
 metafile = true
 
 [[files]]
@@ -236,11 +245,6 @@ metafile = true
 [[files]]
 file = "mods/screencopy.pw.toml"
 hash = "80a755d026da2bae1b3374ccbf745a1753baf4eb1de1f002e83007b850aba9dd"
-metafile = true
-
-[[files]]
-file = "mods/snail-mail.pw.toml"
-hash = "a99d7788c955a22e366e89a8b94d4c209585ebd3f2d804d8ffe489d832a7c72d"
 metafile = true
 
 [[files]]
