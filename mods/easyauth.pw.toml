@@ -1,13 +1,13 @@
 name = "EasyAuth"
-filename = "easyauth-mc1.19-3.0.0-6.jar"
+filename = "easyauth-mc1.19-3.0.0-7.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "6149df2217d96a8651ee87142028b6fce8660691"
+hash = "e03322f500f1e02b36859cfec3ff9d2f3be81368"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3821697
+file-id = 3846142
 project-id = 503866

@@ -1,6 +1,6 @@
 name = "EMI (Item and Recipe Viewer)"
 filename = "emi-0.2.0+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3840555
 project-id = 580555
+
+[option]
+optional = true
+default = false
+description = "Navegador de recipientes bien cool pero en alfa"

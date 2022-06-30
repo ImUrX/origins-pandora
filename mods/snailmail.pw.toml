@@ -1,0 +1,8 @@
+name = "Snail Mail"
+filename = "snailmail-1.19-1.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/713114844861300756/991894745292996688/snailmail-1.19-1.1.0-fabric.jar"
+hash-format = "sha256"
+hash = "5d3e07c67cdca70c5bb451ceac71130989707f1df9a507b8d752a18feaffa506"

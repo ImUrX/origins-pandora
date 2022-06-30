@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts-fabric.pw.toml"
-hash = "7fec0c11e044b05224575ddb17d5a8096517cbbc70f68d023e343d8f029c76fb"
+hash = "fc341fd6b62ac129f6d6fc6f5cd0102355b911f033238360d4f052050c597d95"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ac58a321007dfe917701716cd6e7873d9516d58cea2b0de1f6c3ac7cbe7048c5"
+hash = "6b4f1926374e96137d9b411ac9a8b6856ba8eb71929af1f2ff2ed267a2662058"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "f23489231f611e8aaa8e12b48682fde444ec15403214a17b15959f8824dc6c90"
+hash = "673dc519840272751a54ad6a45fdad848f8b39588618ae343cd353438515a212"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9e844e7ebcaf9603261c0a100de5a2b4eaabb18c854bbd411440aea55aa421f3"
+hash = "67025dcb6af01e7f9c1181c261cc8084a755eff1b8b2236aa03078022516e566"
 metafile = true
 
 [[files]]
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "960e11d87f09c00789095d237aaa1244fc45d9c1fdb0be3fc2093f877ae10ff2"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
+hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "c1122c19625a7ccb532b64bad865b70cdb1f24b308a55a0d867b2b893f608ff1"
+hash = "f881fe0c7d862099b0b687fd282f92776549270a6a7f9b00a381da3ee265ee73"
 metafile = true
 
 [[files]]
@@ -235,12 +235,22 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "ea7abe71d5bbb0fcb4ec4ef2025232a22f2e9acae7a0d1652bbc63a276dcba82"
+hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "b6f1c6d165966b6131d4956a94ce7c5a2fddcad350dbcfd14f539ffcd2bf00f1"
 metafile = true
 
 [[files]]
 file = "mods/screencopy.pw.toml"
-hash = "80a755d026da2bae1b3374ccbf745a1753baf4eb1de1f002e83007b850aba9dd"
+hash = "d2193bce14c856f1491a936bea2c70007b19a3aef2989f92edaa0ddee0f729c3"
+metafile = true
+
+[[files]]
+file = "mods/snailmail.pw.toml"
+hash = "e95429a793c3555684e4e9896bc4dfb82b1664276adccc5a601a153d757ef885"
 metafile = true
 
 [[files]]
@@ -255,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "76224d5c02a335313f7809ef14c6e4a3278c07a79e9a74e242b1988f60a6be85"
+hash = "e74deee78e23752558ac6a0ad3b3a2de193e0e217300e7416626860b41fd76ce"
 metafile = true
 
 [[files]]
@@ -275,12 +285,22 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d61971653ceeb16ed8904a868e1f6f29b0b62834141e73d2b52546c92e87e475"
+hash = "1964cc7f0504905d67088f4a11440cdedef4259a386a72ec3f61c656a815c423"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "43cdd48d6dd88fc2d7d69d441ef194123e645090d9ba8691aae811f762976767"
+hash = "0852785695c0a61544a4f58dee5f081b067bd52cd6dbd211618b0e95707765c6"
+metafile = true
+
+[[files]]
+file = "mods/zoomglass.pw.toml"
+hash = "3b889c215070e05b9492ee5feda570e4ec0e87d8febe1f16f715d79ca89202c5"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "19ddc206d7560690e5920daa0d11da5f265589f86c0f9383c538751a7f9065d0"
 metafile = true
 
 [[files]]

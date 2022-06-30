@@ -1,0 +1,18 @@
+name = "Zoomglass"
+filename = "zoomglass-1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cb2f45ea70dffc0abefeb7ac142346e28480e702"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819398
+project-id = 555196
+
+[option]
+optional = true
+default = true
+description = "Tecla para usar el catalejo de una (por predeterminado con \"c\")"

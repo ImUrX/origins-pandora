@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3821021
 project-id = 455508
+
+[option]
+optional = true
+default = true
+description = "Shaders y un par de cosas de optimización, pero mayormente para shaders."
