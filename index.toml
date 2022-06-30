@@ -89,6 +89,11 @@ hash = "6b4f1926374e96137d9b411ac9a8b6856ba8eb71929af1f2ff2ed267a2662058"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "670a4e096864ea0f8bebd1ae1924790080a18d098fc0cd0cef4f0f824471f358"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models-fabric.pw.toml"
 hash = "13235d7d583dcad597b4386f34ea568cc9b9510f6b63c988c537909614a5f60b"
 metafile = true
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/snailmail.pw.toml"
-hash = "e95429a793c3555684e4e9896bc4dfb82b1664276adccc5a601a153d757ef885"
+hash = "baab961d58d0420fafcf8e0fbdbd3be0cde3225e2d66c7bf0811bff339821959"
 metafile = true
 
 [[files]]
