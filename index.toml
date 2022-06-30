@@ -286,6 +286,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "a645d147b7ea7f51200719ff27f388c8348cfe678b38f855f3f4852e3db759c4"
+preserve = true
 
 [[files]]
 file = "world/datapacks/moth-origin.zip"
