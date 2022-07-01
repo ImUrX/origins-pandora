@@ -1,12 +1,12 @@
 name = "Origins Pandora"
 author = "ImUrX"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d3a499154ba62c4a96bc0bcb34faeed5fbf9fbe8f4f7374ed21cacc9c7ec8936"
+hash = "bdcf466f1b27886f7cc08a2324d3452b27314323a950af5c788fb701f969d3b5"
 
 [versions]
 fabric = "0.14.8"
