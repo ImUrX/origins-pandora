@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "f3e66c8224bbcc006c745c977df127bd884f789aef5fc554ca5c1356271109dd"
+hash = "1496bc51a0eb584787ee211793cd9bb295778aafbe21ef9120d7a7869c7cfd93"
 metafile = true
 
 [[files]]
@@ -55,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "96dac7db9e58d1b778dcaad4679b75fe4d8c6195e6552061851fc5659b44fab6"
+hash = "32d5fbe96775d185a18d8be7395b1587f19023451f8e697d438a4a04f8d4fa2f"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-hash = "4f92c8cbca88d3cb3c49994d33ff549addabd493f29ed415f1feb637fddbb820"
+hash = "ff64042a3086c0f0d0538ba1644e5c8c85aba3262a7d24d70d647e446164dea5"
 metafile = true
 
 [[files]]
