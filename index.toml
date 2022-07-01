@@ -44,6 +44,11 @@ hash = "3cdd745983491a3eea764a3eb4dbc58336f537693e03243ae3272ec53a03df04"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "35d5951cb8ace2f79f222cf9145498d5702fe7612413241523c1da04bc3757da"
+metafile = true
+
+[[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "d9f1f6df976af1b3feaef4a1e96ca13a2bbd831b4d1b6892966ee14eb13dbed8"
 metafile = true
@@ -79,8 +84,18 @@ hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
 metafile = true
 
 [[files]]
+file = "mods/charmonium.pw.toml"
+hash = "a4fa357fd7a960aeaa522d8026cc6882f24b8c422f76c9c5b82361cd426e06d6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "05e7966e86e8274dab55c3dcdf4b38b3bf8559c87dea7868b51b9529ddc0705a"
 metafile = true
 
 [[files]]
@@ -104,6 +119,16 @@ hash = "4adb70b48919aa4f21c62dd8b853418414754d6f79d1b7c7ca2058195ad36898"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "1068f2ab37e9b1b84f2008a042a933566213922b9449bfe1c14cf272b77f7e1b"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "608cd0150efbf4d88d1624ba559672a4ff433dfc26d90b9bdd7af470988923c0"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "bb1f90cf3a4752bfe60f767130364ab76f698d3ca74853397d2b7fe8c1d65892"
 metafile = true
@@ -116,6 +141,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "67025dcb6af01e7f9c1181c261cc8084a755eff1b8b2236aa03078022516e566"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "545d1ec36b7bca2653eeb4e72c32fe325e2f3c7719df0bb28b4af34ad68a073a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "81461afe75c4352b7a2836708f4913ab3d490633d7a85f5b981e3868a8c99632"
 metafile = true
 
 [[files]]
@@ -151,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/gimme-bundles.pw.toml"
 hash = "2b7bec99c5b64d1456a2aa925e34ae22b21f30767e813ecd8f9f15e973009fff"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "b1e0205d6c71013f3765e13ca4332ccdf59c601cba14c1f4ca233eb54c913f0a"
 metafile = true
 
 [[files]]
@@ -259,6 +299,11 @@ hash = "baab961d58d0420fafcf8e0fbdbd3be0cde3225e2d66c7bf0811bff339821959"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "738dc0ab1f315c2b461a1c194109986c8bcf3c24f5c4da8bd88871989bcebf34"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2b8acbfc65f6406ed735b5072b16d7e6f5c877dddc9988bae25007a47c4c1f10"
 metafile = true
@@ -266,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "2340aaccb717f64a3fb9e384c688d7696a77bcc46ffc7a7da3472f58938df123"
 metafile = true
 
 [[files]]
@@ -286,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "3fd72c1dc35ee7b8361861b6c13bd6eca5ef93afe89e55970bacdf8a2c57759e"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "1d23f7c09f825d1d9bfa10bb06828ca3efda037801abfae9c164ad320004ad3a"
 metafile = true
 
 [[files]]

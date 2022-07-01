@@ -1,0 +1,18 @@
+name = "DashLoader"
+filename = "dashloader-4.0.0+1.19.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c6ecf810365ef16714c6577caba86bd3dfdfa782"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3826062
+project-id = 472772
+
+[option]
+optional = true
+default = true
+description = "Hace una cache para que el Minecraft se cargue aun mas rapido (puede tener incompatibilidades)"
