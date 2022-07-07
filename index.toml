@@ -34,33 +34,18 @@ hash = "fc341fd6b62ac129f6d6fc6f5cd0102355b911f033238360d4f052050c597d95"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "a3b34a8efbc9099eb420e8a0af02196131235d877bbcbe277c19ac4b433a9bef"
-metafile = true
-
-[[files]]
 file = "mods/better-animal-models.pw.toml"
 hash = "3cdd745983491a3eea764a3eb4dbc58336f537693e03243ae3272ec53a03df04"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display.pw.toml"
-hash = "35d5951cb8ace2f79f222cf9145498d5702fe7612413241523c1da04bc3757da"
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "cee01d65538d5314639fef6ba1a9c65fb0c7665f0473c8d62d6f375871028c79"
 metafile = true
 
 [[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "d9f1f6df976af1b3feaef4a1e96ca13a2bbd831b4d1b6892966ee14eb13dbed8"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4042a82c3fbeef37d2927a7673de90668e891d232205229c60a9669ad7bfb7c5"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "3eed155c6fa60e3cf3989fe13d9c005528cb3e066e62792cfd1e595676955c27"
 metafile = true
 
 [[files]]
