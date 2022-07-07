@@ -259,6 +259,11 @@ hash = "aa0619a02adb028a724f2947a4d18cf9ccd55f590014b332f4f7cceac71ee7db"
 metafile = true
 
 [[files]]
+file = "mods/no_fog.pw.toml"
+hash = "8de3e4131bca75f2c568d8423d83a52e9603e273f0e9b4faafc6d45b8a7326ee"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "a188354a311da85a495bc41fba7ec9c88c888699d45ba11aa8ac7877a6b3d19f"
 metafile = true
