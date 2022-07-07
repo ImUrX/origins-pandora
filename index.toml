@@ -299,11 +299,6 @@ hash = "29b8887bfa6d02773b797f8144ecf1522e398d7f3480cec9c2b948eee6989521"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "b6f1c6d165966b6131d4956a94ce7c5a2fddcad350dbcfd14f539ffcd2bf00f1"
-metafile = true
-
-[[files]]
 file = "mods/screencopy.pw.toml"
 hash = "d2193bce14c856f1491a936bea2c70007b19a3aef2989f92edaa0ddee0f729c3"
 metafile = true
